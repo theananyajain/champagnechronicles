@@ -5,9 +5,9 @@
 }
 @font-face {
   font-family: "Brandon";
-  src: url(./Brandon_reg.ttf);
+  src: url(fonts/Brandon_reg.ttf);
   font-family: "TT commons";
-  src: url(./TTCommons-Regular.7ec989a7.ttf);
+  src: url(fonts/TTCommons-Regular.7ec989a7.ttf);
 }
 
 html,
