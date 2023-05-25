@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 @font-face {
-  font-family:"Brandon";
+  font-family: "Brandon";
   src: url(./Brandon_reg.ttf);
   font-family: "TT commons";
   src: url(./TTCommons-Regular.7ec989a7.ttf);
@@ -83,7 +83,7 @@ body {
     background-color: transparent;
     outline: none;
     height: 3.8vh;
-    font-family: "TT";
+    font-family: "TT commons";
     color: #fff;
     opacity: 0;
 }
@@ -125,7 +125,7 @@ body {
   text-decoration: none;
   font-size: 2.4vh;
   text-transform: uppercase;
-  font-family: "TT  commons";
+  font-family: "TT commons";
   font-weight: 700;
   color: #fff;
   transition:  all cubic-bezier(0.19, 1, 0.22, 1) .6s;
@@ -174,7 +174,7 @@ body {
   position: absolute;
   bottom: 16%;
   right: 13%;
-  font-family: "TT  commons";
+  font-family: "TT commons";
   color: #d5d5d5;
   pointer-events: none;
 }
@@ -394,7 +394,7 @@ transform: translate(-100%);
 #grbox>h3{
   font-size: 4.6vh;
   width: 18vw;
-  font-family:  "TT  commons";
+  font-family:  "TT commons";
   font-weight: 100;
   color: #fff;
   text-align: left;
@@ -439,7 +439,7 @@ text-transform: uppercase;
 }
 #foxa>h2{
   font-size: 4vh;
-  font-family: "TT  commons";
+  font-family: "TT commons";
   text-transform: uppercase;
   font-weight: 100;
   color: #fff;
@@ -468,7 +468,7 @@ text-transform: uppercase;
 }
 #foxb>h2{
   font-size: 4vh;
-  font-family: "TT  commons";
+  font-family: "TT commons";
   text-transform: uppercase;
   font-weight: 100;
   color: #fff;
@@ -498,7 +498,7 @@ text-transform: uppercase;
 }
 #foxc>h2{
   font-size: 4vh;
-  font-family: "TT  commons";
+  font-family: "TT commons";
   text-transform: uppercase;
   font-weight: 100;
   color: #fff;
@@ -528,7 +528,7 @@ text-transform: uppercase;
 }
 #foxd>h2{
   font-size: 4vh;
-  font-family: "TT  commons";
+  font-family: "TT commons";
   text-transform: uppercase;
   font-weight: 100;
   color: #fff;
@@ -685,7 +685,7 @@ text-transform: uppercase;
 }
 .leftdiv>h5{
  font-size: 2.8vh;
- font-family: "TT  commons";
+ font-family: "TT commons";
  color: #201c1c;
  cursor: pointer;
  text-align: left;
