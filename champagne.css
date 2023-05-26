@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 @font-face {
-  font-family: "Brandon";
-  src: url(../champagne/fonts/Brandon_reg.ttf);
+  font-family: "Brandon Grotesque";
+  src: url(./fonts/Brandon_reg.woff);
 }
 @font-face {
   font-family: "TT commons";
@@ -52,7 +52,7 @@ body {
 }
 #cham>h4{
   font-size: 2.5vh;
-  font-family:"Brandon";
+  font-family:"Brandon Grotesque";
   color: whitesmoke;
   text-align: center;
   cursor: pointer;
@@ -164,7 +164,7 @@ body {
   top: 31.5%;
   right: 10%;
   text-align: center;
-  font-family:"Brandon";
+  font-family:"Brandon Grotesque";
   font-weight: 100;
   text-transform: uppercase;
   line-height: 90px;
@@ -198,7 +198,7 @@ body {
   font-size: 2.5vh;
   color: #fff;
   position: absolute;
-  font-family:"Brandon";
+  font-family:"Brandon Grotesque";
   text-transform: uppercase;
   transform: rotate(-1deg);
 }
@@ -255,7 +255,7 @@ body {
   font-size:11vh;
   text-align: center;
   color: #fff;
-  font-family:"Brandon";
+  font-family:"Brandon Grotesque";
   text-transform: uppercase;
   font-weight: 100;
 }
@@ -289,7 +289,7 @@ body {
 }
 #greentext>h3{
   font-size: 9vh;
-  font-family:"Brandon";
+  font-family:"Brandon Grotesque";
   font-weight: 100;
   text-transform: uppercase;
   color: #fff;
@@ -335,7 +335,7 @@ cursor: pointer;
 
 #texttrain>h1{
 font-size: 7vh;
-font-family:"Brandon";
+font-family:"Brandon Grotesque";
 font-weight: 100;
 text-transform: uppercase;
 color: #fff;
@@ -415,7 +415,7 @@ cursor: pointer;
 }
 #page4>h1{
 font-size: 9vh;
-font-family:"Brandon";
+font-family:"Brandon Grotesque";
 font-weight: 100;
 background-color: #93a256;
 padding-left: 4vh;
@@ -645,7 +645,7 @@ text-transform: uppercase;
 }
 #foothead>h1{
   font-size: 14vh;
-  font-family:"Brandon";
+  font-family:"Brandon Grotesque";
   text-transform: uppercase;
   font-weight: 100;
   color: #fff;
@@ -678,7 +678,7 @@ text-transform: uppercase;
 }
 .leftdiv>h3{
   font-size: 4vh;
-  font-family:"Brandon";
+  font-family:"Brandon Grotesque";
   text-transform: uppercase;
   color: #1b1313;
   font-weight: 800;
