@@ -9,7 +9,7 @@
 }
 @font-face {
   font-family: "TT commons";
-  src: url(../champagne/fonts/TTCommons-Regular.7ec989a7.ttf);
+  src: url(./fonts/TTCommons-Regular.7ec989a7.woff);
 }
 html,
 body {
