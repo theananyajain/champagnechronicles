@@ -5,11 +5,12 @@
 }
 @font-face {
   font-family: "Brandon";
-  src: url(fonts/Brandon_reg.ttf);
-  font-family: "TT commons";
-  src: url(fonts/TTCommons-Regular.7ec989a7.ttf);
+  src: url(../champagne/fonts/Brandon_reg.ttf);
 }
-
+@font-face {
+  font-family: "TT commons";
+  src: url(../champagne/fonts/TTCommons-Regular.7ec989a7.ttf);
+}
 html,
 body {
   height: 100%;
